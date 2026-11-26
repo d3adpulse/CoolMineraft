@@ -1,1 +1,25 @@
-kmhgld';h
+# Godot 4
+.godot/
+.mono/
+data_*/
+*.translation
+*.uid.bak
+
+# .NET
+bin/
+obj/
+*.user
+*.userprefs
+*.suo
+.vs/
+.vscode/
+
+# Сборки и экспорт
+build/
+*.pck
+*.zip
+
+# ОС
+Thumbs.db
+desktop.ini
+.DS_Store
